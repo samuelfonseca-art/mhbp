@@ -100,7 +100,7 @@ export default function Home() {
 
       <div className="mt-8">
         <Snippet hideCopyButton hideSymbol variant="bordered">
-          <span>Nancy Gomez | Yuly Molano | Carlos Diaz</span>
+          <span>Colegio Montehelena Bilingue</span>
         </Snippet>
       </div>
     </section>
