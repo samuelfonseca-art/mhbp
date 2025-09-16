@@ -50,7 +50,7 @@ export default function Home() {
                 <>
                   {/* Avatar del bot a la izquierda del mensaje */}
                   <img
-                    src="https://media.tenor.com/U4xFnwz-TtEAAAAj/giffany-gravity-falls.gif"
+                    src="https://media.tenor.com/r4bF9aoULfoAAAAi/plant.gif"
                     alt="Avatar del bot"
                     className="w-8 h-8 rounded-full mr-2"
                   />
