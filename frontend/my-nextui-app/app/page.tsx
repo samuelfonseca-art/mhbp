@@ -97,7 +97,11 @@ export default function Home() {
           </button>
         </div>
       </div>
-
+      <div className="mt-8">
+        <Snippet hideCopyButton hideSymbol variant="bordered">
+          <span>Bienvenido al chatbot MHB ingresa una planta para obtener sus cuidados</span>
+        </Snippet>
+      </div>
       <div className="mt-8">
         <Snippet hideCopyButton hideSymbol variant="bordered">
           <span>Luna | Martina | Ana | Fonseca</span>
